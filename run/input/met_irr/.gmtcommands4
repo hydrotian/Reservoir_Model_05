@@ -1,0 +1,20 @@
+# GMT common arguments shelf
+-B2/24.00000000000000000000:m::.:SWne
+-JX2/2
+-R0/1/0/1
+-X15
+-x-2
+-Y22
+-y-3
+-jX2/2
+EOF
+F
+F
+/4
+EOF
+4
+EOF
+
+
+EOF
+OF
